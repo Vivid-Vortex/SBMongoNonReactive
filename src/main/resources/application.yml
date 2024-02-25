@@ -1,6 +1,0 @@
-spring:
-  data:
-    mongodb:
-     database: sbmongononreactive
-     port: 27017
-     host: localhost
